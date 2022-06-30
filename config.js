@@ -2,13 +2,11 @@
 global.owner = ['6289666747744'] 
 global.owner = ['6285156118594']
 global.mods = ['6289666747744'] 
-global.mods = ['6285156118594']
 global.prems = ['6289666747744'] 
-global.prems = ['6285156118594']
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'OraszXSuaib'
-global.numberowner = '6289666747744','6285156118594'
+global.nameowner = 'Prasz'
+global.numberowner = "6289666747744","6285156118594"]
 global.instagram = 'https://instagram.com/ainul_181'
 global.github = 'https://github.com/Prasbot1'
 global.dana = '089666747744'
