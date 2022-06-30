@@ -706,8 +706,8 @@ module.exports = {
                             pp = await this.profilePictureUrl(user, 'image')
                         } catch (e) {
                         } finally {
-                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yah,Bebannya Masuk Grup deh selamat join wahai beban grub ').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
-                                (chat.sBye || this.bye || conn.bye || 'yuhu,BEBANYA berkurang 1 kalo balik lagi nitip mie goreng ya'))
+                            text = (action === 'add' ? (chat.sWelcome || this.welcome || conn.welcome || 'Yahh,Beban Grub Nambah deh Selamat Join Beban').replace('@subject', groupMetadata.subject).replace('@desc', groupMetadata.desc.toString()) :
+                                (chat.sBye || this.bye || conn.bye || 'Yess,Beban grub Berkurang 1 Guys Kalo balik Nitip Mie goreng y'))
                                 this.sendButtonImg(id, pp, text, "Group Message", "Nitip mie goreng ya 👋", "lu aja yang beliin", null)
                                 }
                     }
