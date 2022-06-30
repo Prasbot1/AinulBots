@@ -1,43 +1,46 @@
 //=============『 Utama 』================== //
-global.owner = ['6285754202785'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['6289666747744'] 
+global.owner = ['6285156118594']
+global.mods = ['6289666747744'] 
+global.mods = ['6285156118594']
+global.prems = ['6289666747744'] 
+global.prems = ['6285156118594']
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Ainul'
-global.numberowner = '6285754202785'
+global.nameowner = 'OraszXSuaib'
+global.numberowner = '6289666747744','6285156118594'
 global.instagram = 'https://instagram.com/ainul_181'
-global.github = 'https://github.com/AinulBotz'
-global.dana = '08971724481'
+global.github = 'https://github.com/Prasbot1'
+global.dana = '089666747744'
 global.pulsa = '08971724481'
 global.gopay = '08971724481'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'AinulBotz'
-global.gc = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY'
+global.namebot = 'XyuziBOT'
+global.gc = 'https://chat.whatsapp.com/Lr6KNr05PEHAy7romaot9N'
 global.web = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 01.000\n2 Minggu 4.000\n1 Minggu 2.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/AinulBotz-06-26-2' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/AinulBotz-06-26-2' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/c91608212f657b1664ec5.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/c91608212f657b1664ec5.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'AinulBotz'
+global.wm = 'XyuziBotz'
 global.watermark = wm
-global.wm2 = '                     「 AinulBotz⁩ 」'
-global.wm3 = '⫹⫺ AinulBotz'
+global.wm2 = '                     「 xyuxiBotz⁩ 」'
+global.wm3 = '⫹⫺ XyuziBotz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/AinulBotz-06-26-2'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
+global.wait = '_*Wait a Minute Second🤚.*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = 'AinulBotz'
+global.author = 'XyuziBotz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
