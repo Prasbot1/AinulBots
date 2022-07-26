@@ -14,23 +14,23 @@ global.pulsa = '08971724481'
 global.gopay = '089666747744'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'KurobuBOT'
+global.namebot = 'XzynBOT'
 global.gc = 'https://chat.whatsapp.com/Lr6KNr05PEHAy7romaot9N'
 global.web = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 8.000\n2 Minggu 6.000\n1 Minggu 5.000'
+global.price1 = '1 bulan = 8.000\n1 Minggu 6.000\nPermanenent 9.000 2GC'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/c91608212f657b1664ec5.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/c91608212f657b1664ec5.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/2d1e8f78ddaed9f1d983f.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/e1e8549cd39f70e1f86e2.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'KurobuBotz'
+global.wm = 'XzynBotz'
 global.watermark = wm
-global.wm2 = '                     「 Kurobuotz⁩ 」'
-global.wm3 = '⫹⫺ KurobuBotz'
+global.wm2 = '                     「 XzynBotz⁩ 」'
+global.wm3 = '⫹⫺ XzynBotz'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/AinulBotz-06-26-2'
+global.media = 'https://youtube.com/channel/UCy3Dl_pqcIs2Dbdtq23IA3A'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*Wait a Minute Second🤚.*_'
 global.eror = '_*Server Error*_'
@@ -38,7 +38,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = 'KurobuBotz'
+global.author = 'XzynBotz'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
